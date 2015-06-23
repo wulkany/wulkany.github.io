@@ -1,0 +1,105 @@
+a.navbar-brand {
+height: 50px;
+padding: 15px;
+}
+
+body {
+    background-image: url("lava.jpg");
+}
+
+.pas1{
+    background-image: url("p1w.jpg");
+    background-size: cover;
+    height: 700px;
+    color: wheat;
+    font-size: 100px;
+    margin-top: 30px;
+    font-family: serif;
+    font-style: oblique;
+}
+
+.pas1 .container-fluid{
+padding: 300px auto;
+}
+
+.pas1 {
+padding: 10px;
+}
+.pas2 {
+padding: 10px;
+}
+.pas3 {
+padding: 10px;
+}
+.pas4 {
+padding: 100px;
+}
+.pas5 {
+padding: 100px;
+}
+.pas6 {
+padding: 100px;
+}
+
+.pas2 .row .col-md-6{
+background: rgba(0,255,0,0.5);
+margin-top: 20px;
+margin-left: 0px;
+}
+.pas2 .row .col{
+background: rgba(128,128,128,0.7);
+    margin-top: 10px;
+}
+
+.pas3 {
+background: rgba(0,255,0,0.5);
+    
+}
+.pas3 .row .col-md-6{
+margin: 30px 0px;
+}
+
+.pas4 {
+background: rgba(0,255,255,0.5);
+
+}
+
+.pas6 .row .col{
+padding: 10px;
+background: rgba(0,255,0,0.3);
+}
+.pas6{
+background-image: url("pys.jpg");
+        background-size: cover;
+    height: 600px;
+}
+
+.pas7 .row .col{
+background: rgba(128,128,128,0.5);
+    font-size: 30px;
+    color: white;
+}
+.pas8{
+background-image: url("gsa.jpg");
+    background-size: cover;
+    height: 600px;
+}
+.pas8 .row .col{
+    background: rgba(128,128,255,0.7);
+}
+.pas9{
+    background-image: url("gz.jpg");
+    background-size: cover;
+    height: 600px;
+}
+.pas9 .row .col{
+    background: rgba(128,128,255,0.7);
+}
+.pas10{
+background-image: url("mom.jpg");
+    background-size: cover;
+    height: 600px;
+}
+.pas10 .row .col{
+    background: rgba(128,128,255,0.7);
+}
